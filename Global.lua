@@ -21,7 +21,6 @@ local Test = {}
 ---@type table<tts__StandardDieName, number>
 local DieFaceCounts = {
     [Object.Name.Die4] = 4,
-    [Object.Name.Die4] = 4,
     [Object.Name.Die6] = 6,
     [Object.Name.Die6Rounded] = 6,
     [Object.Name.Die8] = 8,
