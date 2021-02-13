@@ -1,0 +1,219 @@
+{
+	"Die_4": [{
+		"rollsCompleted": 5625,
+		"rolledValues": [1477, 1349, 1348, 1451]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1452, 1332, 1399, 1442]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1400, 1359, 1391, 1475]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1418, 1368, 1384, 1455]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1500, 1383, 1322, 1420]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1437, 1417, 1391, 1380]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1434, 1344, 1410, 1437]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1464, 1414, 1342, 1405]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1427, 1372, 1374, 1452]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1434, 1360, 1379, 1452]
+	}],
+	"Die_6": [{
+		"rollsCompleted": 5625,
+		"rolledValues": [1006, 897, 989, 983, 841, 909]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [948, 873, 975, 969, 852, 1008]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [982, 860, 983, 976, 894, 930]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [981, 885, 957, 934, 925, 943]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [957, 855, 943, 962, 932, 976]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [950, 848, 1011, 971, 871, 974]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [991, 860, 1011, 917, 859, 987]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1009, 898, 936, 946, 857, 979]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [935, 868, 987, 966, 864, 1005]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [1017, 922, 957, 986, 788, 955]
+	}],
+	"Die_6_Rounded": [{
+		"rollsCompleted": 5625,
+		"rolledValues": [857, 940, 958, 916, 1071, 883]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [915, 921, 990, 934, 993, 872]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [879, 952, 913, 969, 1022, 890]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [868, 1005, 959, 950, 997, 846]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [826, 974, 979, 1017, 962, 867]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [905, 937, 963, 973, 981, 866]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [939, 945, 975, 958, 961, 847]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [861, 955, 929, 991, 985, 904]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [891, 929, 990, 966, 972, 877]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [857, 919, 992, 962, 992, 903]
+	}],
+	"Die_8": [{
+		"rollsCompleted": 5625,
+		"rolledValues": [703, 679, 674, 744, 702, 719, 675, 729]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [706, 645, 693, 738, 777, 688, 649, 729]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [706, 662, 695, 745, 750, 671, 667, 729]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [752, 671, 667, 711, 709, 727, 697, 691]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [728, 647, 710, 724, 779, 676, 653, 708]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [723, 666, 675, 716, 695, 715, 720, 715]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [721, 716, 660, 745, 719, 673, 714, 677]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [737, 653, 726, 756, 708, 658, 676, 711]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [717, 702, 640, 717, 744, 661, 710, 734]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [730, 652, 677, 732, 729, 685, 690, 730]
+	}],
+	"Die_10": [{
+		"rollsCompleted": 5625,
+		"rolledValues": [530, 618, 669, 507, 501, 518, 531, 626, 564, 561]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [550, 608, 613, 572, 495, 526, 534, 615, 537, 575]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [579, 628, 667, 503, 531, 502, 527, 591, 553, 544]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [563, 593, 668, 534, 503, 569, 516, 592, 564, 523]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [557, 622, 654, 509, 550, 509, 490, 630, 560, 544]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [547, 644, 656, 489, 495, 486, 547, 576, 581, 604]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [573, 615, 644, 546, 512, 571, 520, 567, 531, 546]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [553, 623, 659, 519, 531, 515, 522, 590, 591, 522]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [553, 642, 634, 542, 528, 503, 533, 586, 569, 535]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [537, 650, 626, 540, 552, 507, 494, 592, 567, 560]
+	}],
+	"Die_12": [{
+		"rollsCompleted": 5625,
+		"rolledValues": [499, 486, 421, 450, 415, 473, 469, 451, 474, 507, 498, 482]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [465, 415, 479, 429, 476, 473, 458, 441, 467, 513, 483, 526]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [477, 475, 489, 431, 430, 463, 491, 475, 477, 481, 446, 490]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [488, 449, 488, 454, 489, 467, 444, 452, 476, 469, 484, 465]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [491, 458, 485, 477, 432, 453, 476, 442, 465, 504, 451, 491]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [475, 451, 471, 456, 452, 461, 469, 439, 446, 495, 500, 510]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [507, 445, 487, 516, 437, 441, 482, 441, 436, 483, 472, 478]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [485, 465, 506, 423, 459, 440, 487, 445, 475, 445, 488, 507]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [489, 458, 467, 466, 491, 454, 476, 449, 466, 480, 463, 466]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [474, 499, 490, 474, 408, 485, 478, 415, 479, 487, 438, 498]
+	}],
+	"Die_20": [{
+		"rollsCompleted": 5625,
+		"rolledValues": [284, 270, 315, 252, 274, 277, 279, 291, 294, 305, 286, 288, 283, 280, 284, 292, 250, 285, 294, 242]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [268, 260, 313, 279, 286, 293, 276, 273, 288, 281, 259, 275, 286, 292, 285, 265, 265, 280, 293, 308]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [249, 255, 334, 288, 281, 293, 297, 276, 309, 276, 262, 288, 280, 299, 273, 297, 269, 238, 281, 280]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [298, 295, 302, 295, 285, 260, 292, 279, 289, 271, 285, 255, 278, 282, 309, 285, 247, 282, 286, 250]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [291, 278, 309, 270, 271, 261, 298, 276, 265, 305, 301, 296, 277, 270, 285, 280, 289, 268, 267, 268]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [274, 280, 272, 257, 285, 291, 284, 291, 306, 310, 273, 262, 294, 281, 275, 277, 271, 292, 273, 277]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [296, 320, 302, 280, 247, 266, 298, 304, 291, 288, 279, 251, 252, 279, 283, 283, 291, 291, 262, 262]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [284, 295, 299, 254, 262, 272, 273, 264, 314, 311, 310, 254, 301, 282, 280, 274, 257, 287, 285, 267]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [265, 290, 262, 273, 289, 287, 292, 265, 314, 289, 274, 278, 284, 307, 283, 278, 285, 292, 274, 244]
+	}, {
+		"rollsCompleted": 5625,
+		"rolledValues": [302, 267, 310, 284, 262, 291, 268, 268, 275, 303, 282, 272, 273, 308, 293, 284, 272, 281, 272, 258]
+	}]
+}
