@@ -3,7 +3,7 @@
 Note that this repository contains submodules. You'll need those.
 
 ```sh
-git clone --recurse submodules https://github.com/Benjamin-Dobell/tts_die_test.git
+git clone --recurse-submodules https://github.com/Benjamin-Dobell/tts_die_test.git
 ```
 
 ## Steam Workshop
